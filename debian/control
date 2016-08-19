@@ -11,5 +11,6 @@ Vcs-Browser: https://github.com/niximor/nix-vim-settings.git
 Package: nix-vim-settings
 Architecture: all
 Depends: ${misc:Depends}
+Replaces: vim-common
 Description: Niximor's VIM settings.
  Not quite unusual, but mine.
